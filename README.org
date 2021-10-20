@@ -4,13 +4,13 @@
 
 Desarrollar el componente correspondiente a la capa de presentación de la aplicación.
 
-*** Actividades
+*** Actividades:
 
 - Desarrollar un =componente de presentación= (de front-end), que permita la interacción con el usuario final, a partir de las funcionalidades seleccionadas (ya desarrolladas en los sprints #3 y #4, y ahora expuestas por el componente lógico).
 
 - Desplegar los tres componentes desarrollados, en la plataforma =Heroku.=
 
- *** Notas:
+*** Notas:
 
 - Todas las actividades deberán estar soportadas en el uso de la herramienta Jira, a partir de la creación de un Sprint #5.
 - El componente de presentación debe estar escrito en lenguaje de programación JavaScript, utilizando el framework Vue.js.
